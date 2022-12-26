@@ -7,3 +7,15 @@
 		startup chứa các cài đặt để có thể làm việc với ứng dụng 
 		denpendency chứa các framework 
 	nhập góc dưới màn hình để chọn đưa dự án lên githut 
+
+#4 tạp cấu trúc solution
+	git
+		tạo file readme.md và commit 
+		tạo nhánh develop từ nhánh master tronggithut và put lên, đây sẽ là nhánh phát triển chính 
+		tạo nhánh từ feature/create_solution_structure develop
+tạo solution structure
+		triển khai theo dạng N layer (data, business, prenstation,): data driven design, thiết kế hoàn toàn theo dữ liệu, dữ liệu có gì
+đều thiết kế ra hết
+			data: làm việc dữ liệu
+			business: chứa nghiệp vụ
+			prenstation: hiển thị và ứng dụng 
