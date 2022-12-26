@@ -1,7 +1,9 @@
 ﻿#3 tạo solution
 	tạo một solution blank
-	nhấp phải vào solution đó chọn tạo project asp.net core mvc, nhấp vầo mục http
-	apseting chứa các cài đặt cấu hình cho app, giúp tách biệt dễ dàng sửa chữa và thay đổi, filr appsetings.devolopment.js bên trong dùng
+	kiến thức bổ sung:
+		nhấp phải vào solution đó chọn tạo project asp.net core mvc, nhấp vầo mục http
+		apseting chứa các cài đặt cấu hình cho app, giúp tách biệt dễ dàng sửa chữa và thay đổi, filr appsetings.devolopment.js bên trong dùng
 để cài đặt cho môi trường devolopment, nếu cài đặt chung thì thực hiện ở file bao quát ngoài.
-	startup chứa các cài đặt để có thể làm việc với ứng dụng 
-	denpendency chứa các framework 
+		startup chứa các cài đặt để có thể làm việc với ứng dụng 
+		denpendency chứa các framework 
+	nhập góc dưới màn hình để chọn đưa dự án lên githut 
